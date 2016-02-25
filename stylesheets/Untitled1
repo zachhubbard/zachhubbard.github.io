@@ -90,16 +90,13 @@ article{
 
 footer{
     background:#eee;
-} 
+}
 
 .jumbotron{
-  background: url('http://i1024.photobucket.com/albums/y306/zhubbard/FaceQ1449609904198_zpsavw7ngbl.png') no-repeat center;
+  background: url('https://picjumbo.imgix.net/HNCK8910.jpg?q=40&w=1650&sharp=30') no-repeat center;
   background-size: cover;
 }
 
 .portrait_name{
     background: rgba(230, 230, 230, 0.7);
-}
-body {
-    background: #030303;
 }
